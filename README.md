@@ -1,6 +1,8 @@
 ## The Coding Implementation of GeoExplainer: A Visual Analytics Framework for Spatial Modeling Contextualization and Report Generation
 Paper Link: [https://ieeexplore.ieee.org/abstract/document/10297564](https://ieeexplore.ieee.org/abstract/document/10297564)
+
 Demo Video: [https://youtu.be/vC7hG7Atty8?si=asGGxQuujv7_QmM0](https://youtu.be/vC7hG7Atty8?si=asGGxQuujv7_QmM0)
+
 Presentation: [https://www.youtube.com/watch?v=sEN6FUJYJAg&t=105s](https://www.youtube.com/watch?v=sEN6FUJYJAg&t=105s)
 
 ## The GeoExplainer framework
