@@ -1,7 +1,11 @@
 ## The Coding Implementation of GeoExplainer: A Visual Analytics Framework for Spatial Modeling Contextualization and Report Generation
 Paper Link: [https://ieeexplore.ieee.org/abstract/document/10297564](https://ieeexplore.ieee.org/abstract/document/10297564)
+Demo Video: [https://youtu.be/vC7hG7Atty8?si=asGGxQuujv7_QmM0](https://youtu.be/vC7hG7Atty8?si=asGGxQuujv7_QmM0)
+Presentation: [https://www.youtube.com/watch?v=sEN6FUJYJAg&t=105s](https://www.youtube.com/watch?v=sEN6FUJYJAg&t=105s)
 
-## The GeoExplainer framework - Implemented by Fan Lei and Qiang Xu
+## The GeoExplainer framework
+
+> Implemented by Fan Lei and Qiang Xu
 
 The frontend interface is implemented by ReactJS, and the services are deployed in a Python Flask server. We use the asynchronized API to handle the communications between interface and the Python backend calculations.
 
